@@ -1,0 +1,102 @@
+[ 
+    {
+          "question": "What is the speed of light",
+          "subject": "Physics",
+          "topic": "Waves",
+          "difficulty": "Easy",
+          "marks": 10
+        },
+        {
+          "question": "Where is TajMahal?",
+          "subject": "General Knowledge",
+          "topic": "Geography",
+          "difficulty": "Easy",
+          "marks": 10
+        },
+        {
+          "question": "What is capital of India?",
+          "subject": "Knowledge",
+          "topic": "Geog",
+          "difficulty": "Easy",
+          "marks": 10
+        },
+        {
+          "question": "What is Value of Pi?",
+          "subject": "Knowledge",
+          "topic": "Math",
+          "difficulty": "Easy",
+          "marks": 10
+        },
+        {
+          "question": "Compare and contrast Humaman Behaviour",
+          "subject": "Psychology",
+          "topic": "Behavioral Psychology",
+          "difficulty": "Easy",
+          "marks": 10
+        },
+        {
+          "question": "Solve the quadratic equation",
+          "subject": "Mathematics",
+          "topic": "Algebra",
+          "difficulty": "Medium",
+          "marks": 15
+        },
+        {
+          "question": "Explain thermodynamics",
+          "subject": "Physics",
+          "topic": "Thermodynamics",
+          "difficulty": "Medium",
+          "marks": 15
+        },
+        {
+          "question": "Explain the laws of thermodynamics",
+          "subject": "Physics",
+          "topic": "Thermodynamics",
+          "difficulty": "Medium",
+         " marks": 15
+        },
+        {
+          "question": "Explain HeatWaves",
+          "subject": "Physics",
+          "topic": "Wave Theory",
+          "difficulty": "Medium",
+         " marks": 25
+        },
+        {
+          "question": "Explain the importance of thermodynamics",
+          "subject": "Physics",
+          "topic": "Thermodynamics",
+          "difficulty": "Medium",
+          "marks": 15
+        },
+        {
+         " question": "Describe the process of photosynthesis",
+         " subject": "Biology",
+         " topic": "Cell Biology",
+         " difficulty": "Hard",
+         " marks": 20
+        },
+        {
+         " question": " classical and operant conditioning",
+          "subject": "Psycho",
+          "topic": "Behavioral ",
+          "difficulty": "Hard",
+          "marks": 20
+        },
+
+        {
+          " question": " classical Example of human behaviour",
+           "subject": "Psycho",
+           "topic": "Behavioral ",
+           "difficulty": "Hard",
+           "marks": 20
+         },
+
+         {
+          " question": "conditioning Pyschology",
+           "subject": "Psycho",
+           "topic": "Behavioral ",
+           "difficulty": "Hard",
+           "marks": 20
+         }
+  ]
